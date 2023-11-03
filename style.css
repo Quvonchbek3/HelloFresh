@@ -192,7 +192,6 @@ line-height: 24px;
 }
 .new:hover{
     border: 2px solid #067A46;
-    text-decoration: underline;
 }
 .du{
     display: flex;
